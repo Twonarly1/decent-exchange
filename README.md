@@ -16,15 +16,15 @@ terminal:
   
     cd decent-exchange
 
-text editor.
+text editor:
 
-  Create an .env file at the root directory, add the following:
+    Create an .env file at the root directory, add the following:
   
-      SKIP_PREFLIGHT_CHECK=true	
+        SKIP_PREFLIGHT_CHECK=true	
       
-      PRIVATE_KEYS=“truffle_account_1,truffle_account_2”
+        PRIVATE_KEYS=“truffle_account_1,truffle_account_2”
       
-      INFURA_API_KEY= api goes here
+        INFURA_API_KEY= api goes here
 
 terminal:
 
