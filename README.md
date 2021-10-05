@@ -1,7 +1,9 @@
 # decent react.js exchange dapp.
 
 terminal:
+
   node v12.22.6
+  
   Truffle v5.3.8
 
 open Ganache.
