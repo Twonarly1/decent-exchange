@@ -5,7 +5,6 @@ import Content from './Content'
 import { connect } from 'react-redux'
 import {
   loadWeb3,
-  loadNetworkId,
   loadAccount,
   loadToken,
   loadExchange
