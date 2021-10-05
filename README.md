@@ -6,9 +6,9 @@ terminal:
   
     Truffle v5.3.8
 
-open Ganache.
+open Ganache:
 
-import the first two accounts from Ganache into your MetaMask wallet.
+    import the first two accounts from Ganache into your MetaMask wallet.
 
 terminal:
 
