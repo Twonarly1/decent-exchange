@@ -25,13 +25,13 @@ text editor.
 
 terminal:
 
-  npm install
+    npm install
   
-  Truffle migrate —reset (make sure ganache is running)
+    Truffle migrate —reset (make sure ganache is running)
   
-  truffle exec scripts/seed-exchange.js
+    truffle exec scripts/seed-exchange.js
   
-  npm run start (ignore an initial error if it appears)
+    npm run start (ignore an initial error if it appears)
   
   browser:
   
