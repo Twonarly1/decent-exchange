@@ -2,9 +2,9 @@
 
 terminal:
 
-  node v12.22.6
+    node v12.22.6
   
-  Truffle v5.3.8
+    Truffle v5.3.8
 
 open Ganache.
 
@@ -12,9 +12,9 @@ import the first two accounts from Ganache into your MetaMask wallet.
 
 terminal:
 
-  Git clone https://github.com/Twonarly1/decent-exchange
+    Git clone https://github.com/Twonarly1/decent-exchange
   
-  cd decent-exchange
+    cd decent-exchange
 
 text editor.
 
