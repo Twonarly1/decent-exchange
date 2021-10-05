@@ -1,8 +1,8 @@
 {
-  "name": "bootcamp",
+  "name": "decent-exchange",
   "version": "0.2.0",
-  "description": "Decentralized Ethereum Token Exchange",
-  "author": "dev@dappuniversity.com",
+  "description": "decent-exchange",
+  "author": "twonarly1",
   "private": true,
   "homepage": ".",
   "engines": {
