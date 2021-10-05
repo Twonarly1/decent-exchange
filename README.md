@@ -9,6 +9,7 @@ open Ganache.
 import the first two accounts from Ganache into your MetaMask wallet.
 
 terminal:
+
   Git clone https://github.com/Twonarly1/decent-exchange
   
   cd decent-exchange
